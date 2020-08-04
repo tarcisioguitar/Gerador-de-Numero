@@ -1,0 +1,10 @@
+C:\Users\Tarcísio\source\repos\gerador de numero\gerador de numero\bin\Debug\gerador de numero.exe.config
+C:\Users\Tarcísio\source\repos\gerador de numero\gerador de numero\bin\Debug\gerador de numero.exe
+C:\Users\Tarcísio\source\repos\gerador de numero\gerador de numero\bin\Debug\gerador de numero.pdb
+C:\Users\Tarcísio\source\repos\gerador de numero\gerador de numero\obj\Debug\gerador de numero.csprojAssemblyReference.cache
+C:\Users\Tarcísio\source\repos\gerador de numero\gerador de numero\obj\Debug\gerador_de_numero.Properties.Resources.resources
+C:\Users\Tarcísio\source\repos\gerador de numero\gerador de numero\obj\Debug\gerador de numero.csproj.GenerateResource.cache
+C:\Users\Tarcísio\source\repos\gerador de numero\gerador de numero\obj\Debug\gerador de numero.csproj.CoreCompileInputs.cache
+C:\Users\Tarcísio\source\repos\gerador de numero\gerador de numero\obj\Debug\gerador de numero.exe
+C:\Users\Tarcísio\source\repos\gerador de numero\gerador de numero\obj\Debug\gerador de numero.pdb
+C:\Users\Tarcísio\source\repos\gerador de numero\gerador de numero\obj\Debug\gerador_de_numero.Form1.resources
